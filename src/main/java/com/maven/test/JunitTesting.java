@@ -13,4 +13,8 @@ public class JunitTesting {
         	}
         	return count;
         }
+        public int minus(int x,int y)
+        {
+              return x-y;
+        }
 }
